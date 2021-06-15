@@ -1,0 +1,36 @@
+.signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 60px;
+  }
+
+.signup-form{
+    color: whitesmoke;
+      background-color: #000000;
+      justify-content:center;
+      align-content: center;
+      padding: 40px;
+      width: 600px;
+      height: 705px;
+      margin: 5px 60px;
+      box-shadow: 8px 8px 18px #000000;
+      border-radius: 10px ;
+    }
+  
+
+
+@media only screen and (min-width: 480px) {
+    
+    .signup-form{
+        color: whitesmoke;
+          background-color: #000000;
+          justify-content:center;
+          align-content: center;
+          box-shadow: 8px 8px 18px #000000;
+          border-radius: 10px ;
+        }
+
+      
+    }
+  

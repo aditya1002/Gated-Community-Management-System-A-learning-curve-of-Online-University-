@@ -1,0 +1,8 @@
+.navcontainer{
+    width: 100%;
+    background-color: rgb(255, 207, 118);
+}
+.navbar:nth-child(4){
+    float: right;
+    color: white;
+}
