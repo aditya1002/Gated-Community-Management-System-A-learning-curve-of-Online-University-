@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/css/main.b6cc2738.chunk.css",
+    "main.js": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/js/main.adaa3215.chunk.js",
+    "main.js.map": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/js/main.adaa3215.chunk.js.map",
+    "runtime-main.js": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/js/runtime-main.c70960f4.js",
+    "runtime-main.js.map": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/js/runtime-main.c70960f4.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.eeda66b9.chunk.js": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/js/2.eeda66b9.chunk.js",
+    "static/js/2.eeda66b9.chunk.js.map": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/js/2.eeda66b9.chunk.js.map",
+    "index.html": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.b6cc2738.chunk.css.map": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/css/main.b6cc2738.chunk.css.map",
+    "static/js/2.eeda66b9.chunk.js.LICENSE.txt": "/Gated-Community-Management-System-A-learning-curve-of-Online-University-/static/js/2.eeda66b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70960f4.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.eeda66b9.chunk.js",
+    "static/css/main.b6cc2738.chunk.css",
+    "static/js/main.adaa3215.chunk.js"
+  ]
+}
