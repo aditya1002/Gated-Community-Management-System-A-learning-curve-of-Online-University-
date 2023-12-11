@@ -1,4 +1,5 @@
 {
+  "homepage": "http://aditya1002.github.io/Gated-Community-Management-System-A-learning-curve-of-Online-University-",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +28,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -48,5 +51,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "g-pages": "^0.1.1"
   }
 }
